@@ -1,1 +1,1 @@
-Este repositorio representa o inicio da minha jornada na computaçao
+Este repositorio representa o inicio da minha jornada na computação.
