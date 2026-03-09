@@ -1,1 +1,1 @@
-# hello-wolrd-c
+Este repositorio representa o inicio da minha jornada na computaçao
