@@ -1,1 +1,1 @@
-# hello-word-c
+# hello-wolrd-c
